@@ -1,8 +1,12 @@
-### Hi there, I'm Scott Steinbeck 👋
+# Hi there, I'm Scott Steinbeck 👋
 
 <img align="left" src="https://cfmlbadges.monkehworks.com/images/badges/made-with-caffeine.svg">
 <img align="left" src="https://cfmlbadges.monkehworks.com/images/badges/made-with-cfml.svg">
 <img align="left" src="https://cfmlbadges.monkehworks.com/images/badges/made-with-vue.svg">
+
+<br/>
+<br/>
+
 <img align="left" src="https://cfmlbadges.monkehworks.com/images/badges/built-with-commandbox.svg">
 
 <br/>
@@ -22,14 +26,12 @@ Scott Steinbeck holds a Masters Degree in Business Administration and a Bachelor
 - 🥅 Goals: Contribute more to Open Source projects.
 - ⚡ I love to build electronics, play soccer and i love to cook.
 
-<br />
-<br />
-
 ## 🚀 Skills
 
 ### Languages
-<img align="left" src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white">
+<img align="left" src="https://cfmlbadges.monkehworks.com/images/badges/powered-by-cfml.svg">
 <img align="left" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black">
+<img align="left" src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white">
@@ -41,7 +43,6 @@ Scott Steinbeck holds a Masters Degree in Business Administration and a Bachelor
 ### Backend Frameworks
 <img align="left" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge">
 <img align="left" src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white">
-<img align="left" src="https://cfmlbadges.monkehworks.com/images/badges/powered-by-cfml.svg">
 <img align="left" src="https://cfmlbadges.monkehworks.com/images/badges/built-with-coldbox.svg">
 
 
