@@ -21,7 +21,7 @@ Scott Steinbeck has created software solutions for many aspects of agriculture i
 Scott Steinbeck holds a Masters Degree in Business Administration and a Bachelors degree in Management Information Systems from California State University Bakersfield.
 
 
-- 🌱 &nbsp;  I’m currently exploring building IOT devices. 🤣
+- 🌱 &nbsp;  I’m currently exploring building IOT devices.
 - 👯 &nbsp;  I’m looking to contribute to the Mapping and IOT world.
 - 🥅 &nbsp;  Goals: Contribute more to Open Source projects.
 - ⚡  &nbsp; I love to build electronics, play soccer and i love to cook.
