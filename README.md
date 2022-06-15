@@ -3,12 +3,8 @@
 <img align="left" src="https://cfmlbadges.monkehworks.com/images/badges/made-with-caffeine.svg">
 <img align="left" src="https://cfmlbadges.monkehworks.com/images/badges/made-with-cfml.svg">
 <img align="left" src="https://cfmlbadges.monkehworks.com/images/badges/made-with-vue.svg">
-
-<br/>
-<br/>
-
 <img align="left" src="https://cfmlbadges.monkehworks.com/images/badges/built-with-commandbox.svg">
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 <br/>
 <br/>
 
@@ -19,6 +15,7 @@ Software Architect and Data Scientist who partners with Growers & Ag Professiona
 Scott Steinbeck has created software solutions for many aspects of agriculture including: Agri Tracking Systems, Agri Mapping, Rec Tracker, ATS Irrigation, and Crop Cast. These solutions provide strategies for managing: crop tracking, irrigation tracking, ag mapping, weather forecasting, location tracking, sample management, field scouting, cost forecasting, harvest tracking, and compliance reporting.
 
 Scott Steinbeck holds a Masters Degree in Business Administration and a Bachelors degree in Management Information Systems from California State University Bakersfield.
+
 
 
 - 🌱 &nbsp;  I’m currently exploring building IOT devices.
