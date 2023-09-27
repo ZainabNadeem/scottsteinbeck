@@ -75,11 +75,11 @@ Scott Steinbeck holds a Masters Degree in Business Administration and a Bachelor
 <br />
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scottsteinbeck" alt="scottsteinbeck" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Zainabnadeem" alt="Zainabnadeem" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=scottsteinbeck&show_icons=true&locale=en" alt="scottsteinbeck" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Zainabnadeem&show_icons=true&locale=en" alt="Zainabnadeem" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=scottsteinbeck&show_icons=true&locale=en&layout=compact" alt="scottsteinbeck" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zainabnadeem&show_icons=true&locale=en&layout=compact" alt="Zainabnadeem" /></p>
 
 
 [blog]: https://aresdev.com/
